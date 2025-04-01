@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
-  "author": "",
+  "author": "Andrea Salswach",
   "license": "ISC",
-  "description": "",
+  "description": "Basic Desktop App",
   "devDependencies": {
     "electron": "^35.1.0"
   }
